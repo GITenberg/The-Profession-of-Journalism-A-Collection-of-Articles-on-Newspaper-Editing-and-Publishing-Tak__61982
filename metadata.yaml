@@ -1,0 +1,39 @@
+_repo: The-Profession-of-Journalism-A-Collection-of-Articles-on-Newspaper-Editing-and-Publishing-Tak__61982
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Bleyer, Willard Grosvenor
+    alias: Bleyer, Daddy
+    birthdate: 1873
+    deathdate: 1935
+    gutenberg_agent_id: '6220'
+    url: http://www.gutenberg.org/2009/agents/6220
+description: ''
+gutenberg_issued: '2020-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61982'
+  lccn: '18009994'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Journalism'
+- GITenberg
+tableOfContents: 'Introduction / Willard Grosvenor Bleyer -- Some aspects of journalism
+  / Rollo Ogden -- Press tendencies and dangers / Oswald Garrison Villard -- The waning
+  power of the press / Francis E. Leupp -- Newspaper morals / H. L. Mencken -- Newspaper
+  morals: a reply / Ralph Pulitzer -- The suppression of important news / Edward Alsworth
+  Ross -- The personal equation in journalism / Henry Watterson -- The problem of
+  the Associated Press / "An Observer" -- The Associated Press: a reply / Melville
+  E. Stone -- Confessions of a provincial editor / "Paracelsus" -- The country editor
+  of to-day / Charles Moreau Harger -- Sensational journalism and the law / George
+  W. Alger -- The critic and the law / Richard Washburn Child -- Honest literary criticism
+  / Charles Miner Thompson -- Dramatic criticism in the American press / James S.
+  Metcalfe -- The humor of the colored supplement / Ralph Bergengren -- The American
+  grub street / James H. Collins -- Journalism as a career / Charles Moreau Harger.'
+title: "The Profession of Journalism\r\nA Collection of Articles on Newspaper Editing\
+  \ and Publishing, Taken From the Atlantic Monthly"
+url: http://www.gutenberg.org/ebooks/61982
